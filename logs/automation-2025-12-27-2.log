@@ -1,0 +1,71 @@
+16:46:54.479 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:46:56.282 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:46:56.292 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:47:07.518 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:47:07.528 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:47:09.337 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:47:09.343 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:47:11.079 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:47:11.084 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:47:21.640 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:47:21.651 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:47:32.188 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:47:32.196 [main] INFO  testCases.TC3_LoginDDTest - *****Starting TC3_loginDDTest****** 
+16:47:42.759 [main] INFO  testCases.TC3_LoginDDTest - *****Finished TC3_loginDDTest****** 
+16:52:04.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+16:55:20.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:03:52.424 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:15:38.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:15:42.828 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Starting TC1_AccountRegistrationTest****
+17:15:42.973 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on My Account...
+17:15:43.378 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on Register page...
+17:15:43.381 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing Customer Details...
+17:15:45.125 [main] INFO  testCases.TC1_AccountRegistrationTest - Validating expected Message
+17:15:45.165 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
+17:15:47.601 [main] INFO  testCases.TC2_LoginTest - *****Starting TC2_LoginTest ****** 
+17:15:49.025 [main] INFO  testCases.TC2_LoginTest - *****Finished TC2_LoginTest ****** 
+17:16:38.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:16:41.578 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Starting TC1_AccountRegistrationTest****
+17:16:41.697 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on My Account...
+17:16:42.138 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on Register page...
+17:16:42.140 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing Customer Details...
+17:16:42.989 [main] INFO  testCases.TC1_AccountRegistrationTest - Validating expected Message
+17:16:43.813 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
+17:16:46.132 [main] INFO  testCases.TC2_LoginTest - *****Starting TC2_LoginTest ****** 
+17:16:48.003 [main] INFO  testCases.TC2_LoginTest - *****Finished TC2_LoginTest ****** 
+17:20:26.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:20:30.275 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Starting TC1_AccountRegistrationTest****
+17:20:30.610 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on My Account...
+17:20:31.214 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on Register page...
+17:20:31.217 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing Customer Details...
+17:20:33.146 [main] INFO  testCases.TC1_AccountRegistrationTest - Validating expected Message
+17:20:33.189 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
+17:20:35.579 [main] INFO  testCases.TC2_LoginTest - *****Starting TC2_LoginTest ****** 
+17:20:37.021 [main] INFO  testCases.TC2_LoginTest - *****Finished TC2_LoginTest ****** 
+17:30:09.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:30:53.349 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:33:56.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\master.xml
+
+17:34:01.084 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Starting TC1_AccountRegistrationTest****
+17:34:01.204 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on My Account...
+17:34:01.596 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on Register page...
+17:34:01.599 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing Customer Details...
+17:34:03.530 [main] INFO  testCases.TC1_AccountRegistrationTest - Validating expected Message
+17:34:03.592 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
