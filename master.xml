@@ -7,7 +7,7 @@
 	
 	</listeners>
   <test name="Test">
-  <parameter name="os" value="windows"/>
+  <parameter name="os" value="linux"/>
     <parameter name="browser" value="chrome"/>
   
     <classes>
