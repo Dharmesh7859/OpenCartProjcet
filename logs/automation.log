@@ -10,3 +10,14 @@
 16:32:34.102 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
 16:32:34.999 [TestNG-tests-3] INFO  testCases.TC1_AccountRegistrationTest - Validating expected Message
 16:32:35.127 [TestNG-tests-3] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
+12:05:24.808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpenCartProjcet\master.xml
+
+12:05:28.542 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Starting TC1_AccountRegistrationTest****
+12:05:28.683 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on My Account...
+12:05:29.071 [main] INFO  testCases.TC1_AccountRegistrationTest - Clicked on Register page...
+12:05:29.089 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing Customer Details...
+12:05:30.908 [main] INFO  testCases.TC1_AccountRegistrationTest - Validating expected Message
+12:05:30.947 [main] INFO  testCases.TC1_AccountRegistrationTest - ****Finished TC1_AccountRegistrationTest****
+12:05:33.342 [main] INFO  testCases.TC2_LoginTest - *****Starting TC2_LoginTest ****** 
+12:05:34.885 [main] INFO  testCases.TC2_LoginTest - *****Finished TC2_LoginTest ****** 
